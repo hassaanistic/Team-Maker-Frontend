@@ -1,0 +1,20 @@
+
+  
+  .players-table th {
+    font-weight: bold;
+  }
+  
+  .players-table th,
+  .players-table td {
+    vertical-align: middle;
+  }
+  
+  .players-table .btn {
+    margin-right: 5px;
+  }
+  
+
+  .blur th,
+  .blur td:nth-child(3) { /* Apply the blur effect only to the third column (Ranking) */
+      filter: blur(5px); /* Adjust the blur intensity as needed */
+  }
