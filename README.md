@@ -27,6 +27,10 @@ This project was bootstrapped with [Create React App](https://github.com/faceboo
 https://github.com/hassaanistic/Team-Maker-Frontend/assets/97599430/26c50786-838d-4e10-a8ce-74d2bf193eb5
 
 
+https://github.com/hassaanistic/Team-Maker-Frontend/assets/97599430/f947e3d4-ba34-4677-b065-c5a06f628a52
+
+
+
 ## Available Scripts
 
 In the project directory, you can run:
