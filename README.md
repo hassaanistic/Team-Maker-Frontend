@@ -1,10 +1,26 @@
+# Team Maker: MERN App
+
+## My Role
+**MERN Web Developer**
+
+## Project Description
+**Team Maker** is a robust application built using the MERN stack (MongoDB, Express.js, React, Node.js). This application is designed to streamline the process of forming balanced sports teams by enabling users to upload player data via CSV files.
+
+### Key Features:
+- **CSV Uploads:** Users can easily upload CSV files containing player information.
+- **Dynamic Team Generation:** The app automatically generates balanced teams based on player height and ranking averages, ensuring fair and competitive matches.
+- **JWT Authentication:** Secure access to the application is guaranteed through JSON Web Token (JWT) authentication.
+- **CSV Export:** Users can export the generated teams in CSV format, facilitating seamless data transfer and record-keeping.
+
+This application is ideal for sports leagues, team-building exercises, and any other scenarios where balanced teams are crucial.
+
+---
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
-https://github.com/hassaanistic/Team-Maker-Frontend/assets/97599430/a6362631-edf1-43c3-95c5-a071fd84321a
-
-
+![Team Maker Demo](https://github.com/hassaanistic/Team-Maker-Frontend/assets/97599430/a6362631-edf1-43c3-95c5-a071fd84321a)
 
 ## Available Scripts
 
@@ -41,7 +57,7 @@ If you aren't satisfied with the build tool and configuration choices, you can `
 
 Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you're on your own.
 
-You don't have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn't feel obligated to use this feature. However we understand that this tool wouldn't be useful if you couldn't customize it when you are ready for it.
+You don't have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn't feel obligated to use this feature. However, we understand that this tool wouldn't be useful if you couldn't customize it when you are ready for it.
 
 ## Learn More
 
