@@ -4,6 +4,9 @@
 **MERN Web Developer**
 
 ## Project Description
+
+
+
 **Team Maker** is a robust application built using the MERN stack (MongoDB, Express.js, React, Node.js). This application is designed to streamline the process of forming balanced sports teams by enabling users to upload player data via CSV files.
 
 ### Key Features:
@@ -20,7 +23,9 @@ This application is ideal for sports leagues, team-building exercises, and any o
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
-![Team Maker Demo](https://github.com/hassaanistic/Team-Maker-Frontend/assets/97599430/a6362631-edf1-43c3-95c5-a071fd84321a)
+![Team Maker Demo]
+https://github.com/hassaanistic/Team-Maker-Frontend/assets/97599430/26c50786-838d-4e10-a8ce-74d2bf193eb5
+
 
 ## Available Scripts
 
